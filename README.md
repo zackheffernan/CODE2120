@@ -23,6 +23,11 @@ cmd will have (myenv) shown at the beginning of commands now
 
 
 ## Hosting your django repo to python anywhere
+Clone repo to PA
+
+```
+git clone https://github.com/<USERNAME>/<REPO NAME>.git
+```
 ```
 mkvirtualenv DJANGO --python=/usr/bin/python3.6
 
