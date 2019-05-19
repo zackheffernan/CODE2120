@@ -19,3 +19,17 @@ to run your virtual environment via cmd:
 venv\myenv\scripts\activate
 ```
 cmd will have (myenv) shown at the beginning of commands now
+
+
+
+## Hosting your django repo to python anywhere
+```
+mkvirtualenv DJANGO --python=/usr/bin/python3.6
+
+pip install django
+python -m django --version
+django-admin startproject mysite
+tree
+```
+
+https://help.pythonanywhere.com/pages/FollowingTheDjangoTutorial
