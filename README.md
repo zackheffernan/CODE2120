@@ -38,3 +38,9 @@ tree
 ```
 
 https://help.pythonanywhere.com/pages/FollowingTheDjangoTutorial
+
+
+```
+https://pypi.org/search/
+https://pypi.org/project/pystl/
+```
